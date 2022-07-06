@@ -32,4 +32,4 @@ PS: Não precisa se preocupar em consumir nenhuma API. Pode criar mocks para as 
 - O máximo possível de APIs nativas
 
 ## Importante
-Se surgir qualquer dúvida durante o desenvolvimento, não hesite em perguntar! Pode adicionar um comentário aqui mesmo no repositório que nosso time vai estar pronto a lhe auxiliar 😊
+Se surgir qualquer dúvida durante o desenvolvimento, não hesite em perguntar! Pode adicionar um comentário aqui mesmo no repositório que nosso time vai estar pronto a lhe auxiliar 😊-
