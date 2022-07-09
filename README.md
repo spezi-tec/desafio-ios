@@ -42,4 +42,12 @@ PS: Não precisa se preocupar em consumir nenhuma API. Pode criar mocks para as 
 
 ## Importante
 
-Se surgir qualquer dúvida durante o desenvolvimento, não hesite em perguntar! Pode adicionar um comentário aqui mesmo no repositório que nosso time vai estar pronto a lhe auxiliar 😊
+Se alguma dúvida surgir durante o desenvolvimento, não hesite em perguntar! Pode adicionar um comentário aqui mesmo no nosso tempo auxiliar vai estar 😊
+   
+## Sugestão para a página Cora
+-Mulher
+-Negra
+-Representatividade
+
+![Home Page Cora Bank](https://user-images.githubusercontent.com/105249309/178121221-211abc02-6a35-4dc8-96cd-86264cf960d9.png)
+
